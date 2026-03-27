@@ -1,0 +1,17 @@
+.success {
+    background-color: #3b82f6; /* bleu clair */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.error {
+    background-color: #ef4444; /* rouge */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 15px;
+}
